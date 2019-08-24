@@ -60,8 +60,8 @@ Please see [https://bootcampspot.com](https://bootcampspot.com)
 -----------------------------------------
 ## Course Curriculum By Week
 
-| Week | Topic | Start Date |
-|---|---|---|
-| 1 | [Excel](class-activities/week-1/StudentGuide.md) | Aug 6 |
-| 2 | [VBA](class-activities/week-2/StudentGuide.md) | Aug 13 |
-| 3 | [Python](class-activities/week-3/StudentGuide.md) | Aug 20 |
+| Week | Topic | Start Date | Video Guide |
+|---|---|---|---|
+| 1 | [Excel](class-activities/week-1/StudentGuide.md)  | Aug 6 | [Video Guide](class-activities/week-1/VideoGuide.md) |
+| 2 | [VBA](class-activities/week-2/StudentGuide.md) | Aug 13 | [Video Guide](class-activities/week-2/VideoGuide.md)  |
+| 3 | [Python](class-activities/week-3/StudentGuide.md) | Aug 20 | [Video Guide](class-activities/week-3/VideoGuide.md)  |
