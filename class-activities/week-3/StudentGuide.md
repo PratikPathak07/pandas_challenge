@@ -1,28 +1,63 @@
-## Unit 1 - Excel
+# Unit 3 - Intro to Python
 
-### Objectives
+## Overview
 
-* Gain perspective on the course structure and general direction of the program.
-* Gain exposure to the high-level analytic strategies and tools to be covered in class.
-* Feel fully proficient in basic Excel navigation and functionality
-* Gain familiarity with the value of Pivot Tables and the steps for their utilization.
-* Gain comfort utilizing VLookups and HLookups
-* Understand how to implement conditional formatting based on logical rules
-* Be able to make, modify, and style bar charts, line graphs, pie graphs, and scatter plots.
-* Understand how to filter data using Excel.
-* Know how to calculate moving averages and regressions.
-* Create, modify, and stylize basic charts from scratch using Microsoft Excel.
-* Be comfortable creating scatter plots and trend lines.
-* Have a firm understanding of how to create charts that contain filtered data.
-* Know how to create regressions and calculate moving averages using Excel.
+In this week we will be introducing the Python programming language. The purpose of this unit is to gain a firm understanding on how to use the core Python language to store and manipulate data; read and write to files; and "translate" logical solutions to problems to Python implementations of those solutions.
 
-- - -
+This unit will start out with core features of Python, such as variable declarations, and move on to discuss more advanced and idiomatic features of the language. Topics will include reading and writing files, working with the file system, iteration using for loops, iteration using list comprehension, list methods, the notion of dictionaries and methods on them, and additional miscellany where required to facilitate completion of the homework assignment.
+
+### Course Objectives
+
+* Be able to navigate the desktop via the terminal.
+* Create Python scripts and run them in terminal.
+* Begin to understand programming concepts in Python.
+* Feel confident reading data into Python from CSV files.
+* Feel confident writing data from Python into CSV files.
+* Know how to zip two lists together and when this is helpful.
+* Have a firm understanding on how to create and use Python functions.
+* Be able to create and use Python dictionaries.
+* Be able to read data in from a dictionary.
+* Have a firm understanding of coding logic and reasoning.
+
+### Key Activities
+
+* [Rock Paper Scissors](day-1/Activities/10-Stu_RockPaperScissors)
+
+* [Number Chaining](day-1/Activities/12-Stu_NumberChain)
+
+* [Read Netflix](day-2/Activities/08-Stu_ReadNetFlix)
+
+* [Udemy Zip](day-2/Activities/11-Stu_UdemyZip)
+
+* [HobbyBook](day-3/Activities/03-Stu_HobbyBook)
 
 ### Helpful Links
 
-* [Storytelling With Data](http://www.storytellingwithdata.com/)
-* [Excel Data Analysis](https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118517148,miniSiteCd-BSG.html)
-* [Advanced Excel Essentials](https://www.apress.com/us/book/9781484207352)
+* [Python - Beginner](https://www.learnpython.org/)
+
+* [Python Scripting](https://automatetheboringstuff.com/)
+
+* [Python f-strings](https://www.python.org/dev/peps/pep-0498/)
+
+* [Python DataStructures](https://docs.python.org/3/tutorial/datastructures.html)
+
+* [Python CSV Module](https://docs.python.org/3/library/csv.html)
+
+* [Git/Github](https://github.com/Multishifties/No-Nonsense-Github-Project)
+
+* [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+* [Python 3's f-Strings](https://realpython.com/python-f-strings/)
+
+### Additional Course Resources
+
+* [Python CheatSheet](Supplemental/Python_Reference_Guide.pdf)
+
+* [Python-GettingStarted.md](Supplemental/Python-GettingStarted.md)
+
+* [Virtual Environments](Supplemental/conda_pip.pdf)
+
+* [Conda Cheatsheet](Supplemental/conda-cheatsheet.pdf)
 
 - - -
 
